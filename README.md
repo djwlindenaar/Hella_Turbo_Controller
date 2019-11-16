@@ -1,4 +1,4 @@
-# Hella_Turbo_Controller
+# Hella Turbo Controller
 Programming the [Hella Universal turbo actuator I](https://www.hella.com/microsite-electronics/en/Universal-turbo-actuator-I-133.html). 
 
 This turbo actuator is used on many verhicles, especially to control VTG turbo's. Two main interfaces to the ECU are used, the CAN bus or the PWM interface. The actuators are actually all the same and can be configured to work in either mode. Also especially in PWM mode, the range and sensitivity can be configured.
